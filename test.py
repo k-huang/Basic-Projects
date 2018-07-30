@@ -1,2 +1,0 @@
-tasklist = {}
-print(tasklist == None)
