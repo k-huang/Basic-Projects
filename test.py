@@ -1,0 +1,2 @@
+tasklist = {}
+print(tasklist == None)
